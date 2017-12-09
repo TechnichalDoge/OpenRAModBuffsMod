@@ -1,0 +1,47 @@
+^ExistsInWorld:
+	GivesExperience:
+		PlayerExperienceModifier: 0
+
+^Building:
+	RepairableBuilding:
+		PlayerExperience: 20
+
+E6:
+	Captures:
+		PlayerExperience: 50
+
+SPY:
+	Infiltrates:
+		PlayerExperience: 30
+
+MECH:
+	Captures:
+		PlayerExperience: 40
+
+THF:
+	Infiltrates:
+		PlayerExperience: 40
+
+HIJACKER:
+	Captures:
+		PlayerExperience: 40
+
+SPEN:
+	RepairsUnits:
+		PlayerExperience: 20
+
+SYRD:
+	RepairsUnits:
+		PlayerExperience: 20
+
+FIX:
+	RepairsUnits:
+		PlayerExperience: 20
+
+TRUK:
+	DeliversCash:
+		PlayerExperience: 50
+
+JEEP:
+    RepairsUnits:
+        PlayerExperience: 20
